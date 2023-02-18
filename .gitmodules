@@ -1,9 +1,9 @@
 [submodule "clip-digest-extension"]
 	path = clip-digest-extension
-	url = ./clip-digest-extension
+	url = https://github.com/malvibid/clip-digest-extension
 [submodule "clip-digest-server"]
 	path = clip-digest-server
-	url = ./clip-digest-server
+	url = https://github.com/malvibid/clip-digest-server
 [submodule "clip-digest-website"]
 	path = clip-digest-website
-	url = ./clip-digest-website
+	url = https://github.com/malvibid/clip-digest-website
